@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MaxNumber/MaxNumber.vcxproj" Id="b0f1247b-6acb-4d65-a091-bf4f79d7d122" />
+</Solution>
