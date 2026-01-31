@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Copy Prime Numbers to a new Array/Copy Prime Numbers to a new Array.vcxproj" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Count Odd Numbers in Array/Count Odd Numbers in Array.vcxproj" />
+</Solution>
