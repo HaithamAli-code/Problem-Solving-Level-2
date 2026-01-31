@@ -1,0 +1,3 @@
+﻿  Random Number.cpp
+C:\Users\haith\OneDrive\Desktop\c++\Random Number\Random Number\Random Number\Random Number.cpp(26,1): warning C4715: 'returnRandom': not all control paths return a value
+  Random Number.vcxproj -> C:\Users\haith\OneDrive\Desktop\c++\Random Number\Random Number\x64\Debug\Random Number.exe

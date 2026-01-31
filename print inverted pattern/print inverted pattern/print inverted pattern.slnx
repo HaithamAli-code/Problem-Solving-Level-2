@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="print inverted pattern/print inverted pattern.vcxproj" Id="c72a5307-f37f-4961-b295-4fede20c4d3f" />
+</Solution>
