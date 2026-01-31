@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Add Array Element Simi Dynamic/Add Array Element Simi Dynamic.vcxproj" />
+</Solution>
