@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="reverse the direction of the number/reverse the direction of the number.vcxproj" Id="0f21b4f6-17e7-48d0-aeba-4b7303550082" />
+</Solution>
