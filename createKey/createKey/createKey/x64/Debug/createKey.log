@@ -1,0 +1,3 @@
+﻿  createKey.cpp
+C:\Users\haith\OneDrive\Desktop\c++\createKey\createKey\createKey\createKey.cpp(34,1): warning C4715: 'createRandom': not all control paths return a value
+  createKey.vcxproj -> C:\Users\haith\OneDrive\Desktop\c++\createKey\createKey\x64\Debug\createKey.exe

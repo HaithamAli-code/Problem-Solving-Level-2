@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="createKey/createKey.vcxproj" Id="ee357efb-9a0e-46ed-9ecd-2eb0fac80780" />
+</Solution>

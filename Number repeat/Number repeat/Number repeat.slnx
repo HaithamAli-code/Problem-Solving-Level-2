@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Number repeat/Number repeat.vcxproj" Id="b85e19ec-960a-41e8-8f31-35254d332048" />
+</Solution>
