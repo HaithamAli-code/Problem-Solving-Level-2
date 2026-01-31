@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Copy Odd Numbers to a new Array/Copy Odd Numbers to a new Array.vcxproj" Id="43104be8-2e88-4f73-959f-5c4c0d33569a" />
+</Solution>

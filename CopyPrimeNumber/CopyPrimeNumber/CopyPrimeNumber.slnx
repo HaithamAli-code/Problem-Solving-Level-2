@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CopyPrimeNumber/CopyPrimeNumber.vcxproj" Id="d398ca56-92e4-4461-b2a9-6e1f53ea0a64" />
+</Solution>
