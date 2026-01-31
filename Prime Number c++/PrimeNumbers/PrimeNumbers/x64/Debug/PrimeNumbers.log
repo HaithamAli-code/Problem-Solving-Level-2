@@ -1,0 +1,3 @@
+﻿  PrimeNumbers.cpp
+C:\Users\haith\OneDrive\Desktop\c++\Prime Number c++\PrimeNumbers\PrimeNumbers\PrimeNumbers.cpp(23,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  PrimeNumbers.vcxproj -> C:\Users\haith\OneDrive\Desktop\c++\Prime Number c++\PrimeNumbers\x64\Debug\PrimeNumbers.exe
