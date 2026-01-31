@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Print each number on a separate line/Print each number on a separate line.vcxproj" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="positineCount/positineCount.vcxproj" Id="d92dc973-0ce5-4145-924f-9a532821c9c9" />
+</Solution>
