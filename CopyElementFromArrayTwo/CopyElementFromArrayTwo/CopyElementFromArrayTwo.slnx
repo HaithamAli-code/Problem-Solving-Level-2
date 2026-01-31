@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CopyElementFromArrayTwo/CopyElementFromArrayTwo.vcxproj" Id="977bdfdc-a851-434b-b494-9fc4fc1cf892" />
+</Solution>

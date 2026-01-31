@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Copy Distinct Numbers to Array/Copy Distinct Numbers to Array.vcxproj" />
+</Solution>
